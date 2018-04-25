@@ -4,7 +4,7 @@ a python calculator made for testing the use of SonarQube's Sonar scanner's abil
 
 The idea is to get test results and code coverage into SonarQube.
 
-According to the documentation of the Sonar Scanner for Python, these three commands should do it:
+According to the documentation of the Sonar Scanner for Python, the last three commands should do it:
 
 ```bash
 python3 -m pytest

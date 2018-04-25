@@ -13,3 +13,9 @@ python3 -m coverage run Calculator.py --branch
 python3 -m coverage xml -i
 
 ```
+
+## TODO
+
+- [ ] Import into own GitHub EE
+- [ ] Add Jenkinsfile
+- [ ] Add sonar-project.properties file
